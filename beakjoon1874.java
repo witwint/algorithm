@@ -40,6 +40,5 @@ public class Main{
 		
 		if(result) System.out.println(sb.toString());
 		
-		
 	}
 }
